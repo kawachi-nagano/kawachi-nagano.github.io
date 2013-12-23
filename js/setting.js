@@ -21,9 +21,14 @@ OpenSpending.Styles.Cofog = {
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '1-3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },    
   '2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
-  '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' }
-
+  '2-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '2-2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '3-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '3-2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '3-3': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' }
 };
 
 
