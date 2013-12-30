@@ -59,8 +59,8 @@ OpenSpending.Styles.Cofog = {
   '11': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' },  
   '11-1': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' },  
   '11-2': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' }, 
-  '12': { icon: 'icons/apanese-money.svg', color: '#C75746', bcolor: '#935B3B' },  
-  '12-1': { icon: 'icons/apanese-money.svg', color: '#C75746', bcolor: '#935B3B' },   
+  '12': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '12-1': { icon: 'icons/japanese-money.svg', color: '#C75746', bcolor: '#935B3B' },   
   '13': { icon: 'icons/avni_dug.svg', color: '#C75746', bcolor: '#935B3B' },  
   '13-1': { icon: 'icons/avni_dug.svg', color: '#C75746', bcolor: '#935B3B' }
 };
