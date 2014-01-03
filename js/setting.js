@@ -22,7 +22,7 @@ OpenSpending.Styles.Cofog = {
   '1-1': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' },  
   '2': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#935B3B' },  
   '2-1': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#935B3B' },  
-  '2-2': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' },  
+  '2-2': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#935B3B' },  
   '2-3': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#935B3B' },   
   '2-4': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#935B3B' },   
   '2-5': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#935B3B' },   
